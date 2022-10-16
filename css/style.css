@@ -322,13 +322,13 @@
 }
 
 .section6_layout {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
   padding-bottom:100px;
 }
 
 .company_tbl {
-  width: 80%;
+  width:100%;
   border-collapse: collapse;
 }
 
